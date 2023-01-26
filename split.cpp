@@ -12,8 +12,6 @@ the function below should be the only one in this file.
 
 #include "split.h"
 #include <stddef.h>
-#include <iostream>
-using namespace std;
 
 void split(Node *&in, Node *&odds, Node *&evens)
 {
